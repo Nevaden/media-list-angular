@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "media-list-ee25d"
+  },
+  "targets": {
+    "media-list-ee25d": {
+      "hosting": {
+        "media-list-angular": [
+          "media-list-ee25d"
+        ]
+      }
+    }
+  }
+}
